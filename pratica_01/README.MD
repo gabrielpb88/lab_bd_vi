@@ -1,2 +1,7 @@
+# Prática 01
 
-# Link da entrega:
+## Tema
+Potência
+
+## Link da entrega
+[Vídeo de entrega](https://www.youtube.com/watch?v=hROFNlgR_QY)
